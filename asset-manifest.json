@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reciperadar/static/css/main.da3089f3.css",
+    "main.js": "/reciperadar/static/js/main.14a7c1df.js",
+    "index.html": "/reciperadar/index.html",
+    "main.da3089f3.css.map": "/reciperadar/static/css/main.da3089f3.css.map",
+    "main.14a7c1df.js.map": "/reciperadar/static/js/main.14a7c1df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.14a7c1df.js"
+  ]
+}
