@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import CustomNavbar from './components/Navbar'
+import CustomNavbar from './components/Navbar';
 import Home from "./components/Home";
 import 'bootstrap/dist/css/bootstrap.min.css'; 
 import ErrorPage from './components/ErrorPage';
